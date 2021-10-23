@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/fausto/c07542e0-bd6e-4ea0-a050-f97dbce2d07f/fausto/Documentos/CLionProjects/PROG2/hash/separandoCSV/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+list
+-
+unordered_map
+-
+
